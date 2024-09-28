@@ -1,2 +1,0 @@
-{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2ZWIxOTkyMzkyMjk1OTU2M2QwNmFlOCIsImVtYWlsIjoidGVzdEBtYWlsLmNvbSIsInJvb3RfaWQiOiI2NmViMTk5MjM5MjI5NTk1NjNkMDZhZTciLCJpc19hY3RpdmF0ZWQiOnRydWUsImV4cGlyYXRpb24iOjE3Mjc0NDE2ODgsInN0YXRlIjoiZWl6NENSZWwifQ.VlQV6tM7SCu9K2nACPPPEWDdA959y3EhsBO5gLqKGPE","user":{"id":"66eb19923922959563d06ae8","email":"test@mail.com","root_id":"66eb19923922959563d06ae7","is_activated":true,"expiration":1727441688,"state":"eiz4CRel"}}
-

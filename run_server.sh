@@ -1,1 +1,0 @@
-DATABASE_HOST=mongodb://localhost:27017/?replicaSet=my-rs jac serve server.jac
