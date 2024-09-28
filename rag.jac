@@ -15,7 +15,6 @@ obj RagEngine {
         self.add_to_chroma(chunks);
     }
 
-
     can load_documents {
         document_loader = PyPDFDirectoryLoader(self.file_path);
         return document_loader.load();
@@ -79,6 +78,8 @@ obj RagEngine {
         } else {
             print('no new documents to add');
         }
+
+        print('finished document processing');
     }
 
     can get_from_chroma(query: str,chunck_nos: int=5) {
@@ -90,11 +91,4 @@ obj RagEngine {
         return results;
     }
 }
-
-
-
-    
-
-    
-
     
